@@ -1,11 +1,22 @@
 *{
-    margin: 0px;
-    padding: 0px;
+   
+    color: #00244c;
+    font-size: 1rem;
     box-sizing: border-box;
+    font-family: 'Arial';
 }
 
-body{
+.head_container{
+width: 70%;
+padding: 1em;
+text-align: left;
+border: 1px solid #DDD;
+margin: 0 auto;
+
+    
+}
+
+.head_container h1{
+    font-size: 20px;
     text-align: center;
-    background-color: #00aaff;
-    color: #fff;
 }

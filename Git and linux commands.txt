@@ -1,0 +1,32 @@
+Git :)
+
+git show: muestra todo el histórico que se ha hecho
+git log filename.txt: muestra la historia entera de una archivo
+git pull: traer info desde reporsitorio remoto
+git init: crea o inicializa el repositorio
+git add: agregar un archivo en el repositorio
+git rm filename: sacar un archivo del repositorio
+git rm --cached filaname: sacar un archivo de la memoria
+git config: listar todas las configuraciones de git
+git config --list: configuración por defecto de tu git
+git config --global user.name: cambiar el usuario global
+git config --global user.password: cambiar la contraseña global
+git config --global user.email: cambiar el email global
+scape + i: para insertar texto en el editor de git
+git diff: ver la diferencia entre un commit y otro (funciona con los identificadores de los commits, tener el cuenta el orden).
+
+
+
+notas: stayging vendría siendo la memoria ram.
+
+
+Consola linux: 
+touch filename.ext: permite crear archivos vacíos
+cat: permite previsualizar el contenido de los archivos desde la consola
+history: ver la historia de todos los comandos que se han digitado.
+!numeroDelHistorial: ejecuta el mismo comando que está en el historial identificado con el número.
+rm: borrar archivos
+rmdir: elimiar carpetas
+pwd: te muestra la ruta actual en la que estás.
+Ctrl + L = limpia automáticamente la consola
+

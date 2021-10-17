@@ -20,3 +20,9 @@ margin: 0 auto;
     font-size: 20px;
     text-align: center;
 }
+
+#head_container-title{
+    background-color: #00afff;
+    color: #fff;
+    width: 100%;
+}
